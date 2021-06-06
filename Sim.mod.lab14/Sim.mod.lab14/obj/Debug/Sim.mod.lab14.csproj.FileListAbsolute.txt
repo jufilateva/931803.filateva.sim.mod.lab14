@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Sim.mod.lab14\Sim.mod.lab14\bin\Debug\Sim.mod.lab14.exe.config
+C:\Users\User\source\repos\Sim.mod.lab14\Sim.mod.lab14\bin\Debug\Sim.mod.lab14.exe
+C:\Users\User\source\repos\Sim.mod.lab14\Sim.mod.lab14\bin\Debug\Sim.mod.lab14.pdb
+C:\Users\User\source\repos\Sim.mod.lab14\Sim.mod.lab14\obj\Debug\Sim.mod.lab14.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Sim.mod.lab14\Sim.mod.lab14\obj\Debug\Sim.mod.lab14.Form1.resources
+C:\Users\User\source\repos\Sim.mod.lab14\Sim.mod.lab14\obj\Debug\Sim.mod.lab14.Properties.Resources.resources
+C:\Users\User\source\repos\Sim.mod.lab14\Sim.mod.lab14\obj\Debug\Sim.mod.lab14.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Sim.mod.lab14\Sim.mod.lab14\obj\Debug\Sim.mod.lab14.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sim.mod.lab14\Sim.mod.lab14\obj\Debug\Sim.mod.lab14.exe
+C:\Users\User\source\repos\Sim.mod.lab14\Sim.mod.lab14\obj\Debug\Sim.mod.lab14.pdb
